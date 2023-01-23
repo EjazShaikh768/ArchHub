@@ -1,0 +1,40 @@
+#contactCard .icon{
+justify-content: center;
+text-align: center;
+margin: auto auto auto auto;
+}
+#contactCard .icon i{
+font-size: 3.9rem;
+}
+#contactCard .details{
+    
+justify-content: center;
+text-align: center;
+margin: auto auto auto auto;
+}
+#contactCard .details h3{
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+#contactForm  h3{
+    font-weight: 700;
+}
+
+#contactForm  p{
+font-size: 1.2rem;
+line-height: 1.2em;
+}
+#contactForm hr{
+    width: 47%;
+    color: maroon;
+}
+#contactForm  .form-group h3{
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+#contactForm  .form-group input{
+    background-color: rgb(243, 253, 253);
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}

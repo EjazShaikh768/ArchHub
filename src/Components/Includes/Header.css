@@ -1,0 +1,35 @@
+.header{
+    color: #fff;
+    padding-top: 20px;
+    overflow: hidden;
+}
+.sticky-top {
+    position: fixed;
+    top: 0;
+    padding-top: 18 px;
+    width: 100%;
+    background-color: rgb(76, 33, 33);
+  }
+.nav-link {
+    color: #fff;
+    font-size: 1.2em;
+    text-transform: uppercase;
+    padding-bottom: 25px;
+}
+.nav-link:hover{
+    color: aliceblue;
+    text-decoration: underline;
+}
+#carouselExampleCaptions img{
+    height: 400px;
+    opacity: 0.8;
+}
+.navbar img {
+    width: 80px;
+    height: 50px;
+}
+#navbarNavDropdown{
+    justify-content: center;
+    text-align: center;
+    justify-items: center;
+}

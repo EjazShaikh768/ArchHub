@@ -1,0 +1,19 @@
+#productprmpt{
+   background-image: url("../../assets/Images/adbg.webp");
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+    padding: 20px 0 20px 0 ;
+    color: rgb(0, 0, 0);
+    text-align: justify;
+    text-justify: auto;
+}
+#productprmpt .btn{
+    color: rgb(255, 244, 244);
+    font-size: 1.3em;
+    background-color: brown;
+    padding: 5px 20px;
+}
+#adsIcon img{
+    width: 30px;
+}

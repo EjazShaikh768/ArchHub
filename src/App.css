@@ -36,3 +36,6 @@
     transform: rotate(360deg);
   }
 }
+#navbarNavDropdown .active{
+  color: #f6f6f6;
+}

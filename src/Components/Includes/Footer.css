@@ -1,0 +1,91 @@
+#footer{
+    background-color: rgb(76, 33, 33);
+    padding: 70px  0 10px 0;
+}
+#footer .footerLink {
+    justify-content: center;
+}
+#footer .footerLink ul li{
+    list-style: none;
+}
+
+#footer .footerLink ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.3em;
+    font-weight: 550;
+}
+.Footerimg img {
+    justify-content: center;
+    text-align: center;
+}
+.Footerimg h3 {
+    font-weight: 700;
+    font-size: 1.4em;
+    color: #fff;
+}
+.Footerimg h3 span {
+ color: rgb(209, 131, 36);
+ margin-left: -13.5px;
+}
+.Footerimg ul{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+.Footerimg ul li {
+    list-style: none;
+}
+.Footerimg ul li a{
+    color: #fff;
+    margin-right: 1.3em;
+    font-size: 1.7em;
+}
+#footer .Footerimg hr{
+    width: 33%;
+    color: #fff;
+}
+#footer .footerLink h5{
+    font-weight: 550;
+    font-size: 1.9em;
+    color: #fff;
+}
+#footer .footerLink hr{
+    width: 33%;
+    color: #fff;
+}
+.Footerimg ul li a:hover{
+    color: rgb(234, 161, 25);
+}
+#footer .footerContact{
+    font-size: 1.3em;
+    color: #fff;
+    line-height: 1.7em;
+    justify-content: center;
+}
+
+#footer .footerContact h5{
+    font-weight: 550;
+    font-size: 1.9em;
+}
+
+#footer .footerContact h6{
+    font-weight: 550;
+    font-size: 1.2em;
+}
+#footer .footerContact p{
+    font-size: 0.9em;
+}
+#footer .footerContact hr{
+    width: 33%;
+}
+
+#footer .copyright h6{
+    color: rgb(226, 223, 223);
+    font-size: 1.6em;
+}
+#footer .copyright h6 a{
+    color: #fff;
+    text-decoration: none;
+}   

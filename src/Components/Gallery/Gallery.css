@@ -1,0 +1,9 @@
+#GalleryImg img{
+    background-color: green;
+    transition: transform .2s; /* Animation */
+
+    margin: 0 auto;
+}
+#GalleryImg img:hover{
+    transform: scale(1.1)
+}
