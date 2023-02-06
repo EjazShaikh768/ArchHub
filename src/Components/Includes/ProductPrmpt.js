@@ -7,26 +7,9 @@ function ProductPrmpt() {
             <div className="container-fluid" id='productprmpt'>
                 <div className="container">
                     <div className="row justify-content-center" >
-                        <div className="col-sm-8">
-                            <div id="carouselExampleSlidesOnly" className="carousel slide" data-bs-ride="carousel">
-                                <div className="carousel-inner">
-                                    <div className="carousel-item active">
-                                        <h2>Rioforge</h2>
-                                        <h4>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ipsa ea blanditiis tempore quae repellendus porro autem laboriosam dolore expedita.</h4>
-                                        <a href="www.rioforge.com" className='btn border'>Contact</a>
-                                    </div>
-                                    <div className="carousel-item">
-                                        <h2>Victory Electrical</h2>
-                                        <h4>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ipsa ea blanditiis tempore quae repellendus porro autem laboriosam dolore expedita.</h4>
-                                        <a href="www.rioforge.com" className='btn border'>Contact</a>
-                                    </div>
-                                    <div className="carousel-item">
-                                        <h2>Tandur Junction</h2>
-                                        <h4>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ipsa ea blanditiis tempore quae repellendus porro autem laboriosam dolore expedita.</h4>
-                                        <a href="www.rioforge.com" className='btn border'>Contact</a>
-                                    </div>
-                                </div>
-                            </div>
+                        <div className="col-sm-10 col-md-9 col-lg-8 productprmpt">
+                             <h4>"Unlock the full potential of your  <b>business</b> with our professional website design and digital marketing services. From website redesigns to social media management and online advertising campaigns, our team of experts will work with you to create a comprehensive digital strategy that will help increase your online visibility and attract more leads and conversions. Don't let an outdated website hold you back, let us take your business to the next level with our proven digital marketing techniques."</h4>
+                             <center> <span><a href="tel:+918446931810" className='btn btn-info'>+91 8446931810</a></span> </center>
                         </div>
                     </div>
                 </div>

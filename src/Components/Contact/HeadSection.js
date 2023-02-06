@@ -5,9 +5,9 @@ function HeadSection() {
     <div>
         <div className="container-fluid">
             <div className="row">
-                <div className="col-sm-12" id='headSection'>
+                <div className="col-sm-12" id='headSection2'>
                    <h1>CONATCT US</h1>
-                   <h2>Lorem ipsum, dolor sit amet consectetur adipisicing elit. At, omnis?</h2>
+                   <h2></h2>
                 </div>
             </div>
         </div>

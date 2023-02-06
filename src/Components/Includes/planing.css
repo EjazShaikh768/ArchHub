@@ -1,0 +1,11 @@
+#permissionBlog{
+    background-color: rgb(170, 170, 196);
+    color: white;
+    padding-top: 14px;
+}
+#permissionBlog h3{
+    font-size: 1.3em;
+}
+#permissionBlog p{
+    font-size: 1.3em;
+}

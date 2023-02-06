@@ -8,15 +8,9 @@ function AboutPart() {
             <div className="row justify-content-center">
               
                 
-                <div className="col-sm-12 col-md-9 col-lg-8   aboutDesc">
-                         <h3>Heading About</h3>
-                         <p>
-                            <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, nisi!</span> <br />
-                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores officiis aspernatur deserunt temporibus iure explicabo nobis sunt id reprehenderit nihil minus praesentium qui, placeat harum aliquid labore sed ipsam velit. Quidem recusandae dignissimos, ipsa maxime ratione nobis voluptate laboriosam impedit nisi nihil, et, magni voluptates. Amet distinctio expedita voluptas consequatur.
-                         </p>
-                         <p>
-                            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Officiis enim neque error fugiat voluptatem sunt similique exercitationem saepe nesciunt alias omnis totam suscipit sit ad fuga, quos modi temporibus praesentium.
-                         </p>
+                <div className="col-sm-11 col-md-9 col-lg-8   aboutDesc">
+                         <h3>ARCHiTECTURAL HUB</h3>
+                         <p>``Established in 2020, our civil design company is dedicated to providing innovative and cost-effective solutions for all your civil engineering needs. With a team of skilled professionals and the latest technology, we specialize in designing and planning infrastructure projects such as roads, bridges, airports, and buildings. We have a proven track record of delivering projects on time and within budget, while ensuring the highest standards of safety and sustainability. Our goal is to exceed our clients' expectations by providing customized solutions that meet their specific requirements``</p>
                 </div> 
             </div>
         </div>

@@ -1,5 +1,5 @@
 #productprmpt{
-   background-image: url("../../assets/Images/adbg.webp");
+    background-color: rgb(170, 170, 196);
    background-position: center;
    background-repeat: no-repeat;
    background-size: cover;
@@ -8,9 +8,32 @@
     text-align: justify;
     text-justify: auto;
 }
+#productprmpt h4{
+    font-size: 1.3em;
+    color: #fff;
+    line-height: 1.7em;
+}
+#productprmpt  span{
+    font-size: 1.rem;
+    color: brown;
+    background-color: #fff;
+}
+#productprmpt .productprmpt{
+    text-align: justify;
+    text-justify: auto;
+} 
+#productprmpt  span a:hover{
+    color: green;
+    background-color: #fff;
+}
+#productprmpt  span a{
+    color: #fff;
+    font-size: 1.6em;
+    background-color: #fff;
+}
 #productprmpt .btn{
     color: rgb(255, 244, 244);
-    font-size: 1.3em;
+    font-size: 1.1em;
     background-color: brown;
     padding: 5px 20px;
 }

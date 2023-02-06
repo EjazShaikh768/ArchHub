@@ -4,6 +4,7 @@ import ContactData from './ContactData';
 import Map from './Map';
 import Footer from '../Includes/Footer';
 import Head from '../Includes/Head';
+import Permission from '../Includes/Permssion';
 
 
 function Contact() {
@@ -12,6 +13,7 @@ function Contact() {
       <HeadSection ></HeadSection>
       <ContactData ></ContactData>
       <Map ></Map>
+      <Permission />
       <Head ></Head>
   <Footer ></Footer>
     </div>

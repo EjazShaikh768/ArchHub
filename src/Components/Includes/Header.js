@@ -13,21 +13,21 @@ function Header() {
                         </div>
                         <div className="carousel-inner">
                             <div className="carousel-item active">
-                                <img src={require('../../assets/banner.avif')} className="d-block w-100" alt="..." />
+                                <img src={require('../../assets/Images/homeBanner.jpg')} className="d-block w-100" alt="..." />
                                 <div className="carousel-caption d-none d-md-block">
                                     <h5>BUILDING PLANING</h5>
                                     <p>Some representative placeholder content for the first slide.</p>
                                 </div>
                             </div>
                             <div className="carousel-item">
-                                <img src={require('../../assets/banner1.avif')} className="d-block w-100" alt="..." />
+                                <img src={require('../../assets/Images/homeBanner1.jpg')} className="d-block w-100" alt="..." />
                                 <div className="carousel-caption d-none d-md-block">
                                     <h5>ARCHITECTURE VISUALISATION</h5>
                                     <p>Some representative placeholder content for the second slide.</p>
                                 </div>
                             </div>
                             <div className="carousel-item">
-                                <img src={require('../../assets/banner3.avif')} className="d-block w-100" alt="..." />
+                                <img src={require('../../assets/Images/HomeBanner2.jpg')} className="d-block w-100" alt="..." />
                                 <div className="carousel-caption d-none d-md-block">
                                     <h5>3D BUILDING MODELING</h5>
                                     <p>Some representative placeholder content for the third slide.</p>

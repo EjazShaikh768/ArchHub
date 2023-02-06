@@ -39,3 +39,10 @@
 #navbarNavDropdown .active{
   color: #f6f6f6;
 }
+.navbar-nav li {
+  font-size: 15px;
+}
+.logoImg img{
+ font-size: 1.1em;
+
+}

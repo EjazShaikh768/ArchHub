@@ -1,3 +1,22 @@
+#headSection2{
+    background-image: url('../../assets/Images/bg000.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: darken;
+    opacity: 80%;
+    height: 500px;
+}
+
+#headSection2 h1 {
+    margin-top: 200px;
+    color: #fff;
+    font-weight: 700;
+}
+#headSection2 h2 {
+    color: #fff;
+    font-weight: 600;
+}
 #contactCard .icon{
 justify-content: center;
 text-align: center;

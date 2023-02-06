@@ -64,3 +64,15 @@
   text-justify: auto;
   
 }
+#servicePageCard  .seriviceText h2{
+ font-size: 1.5em;
+ font-weight: 600;
+ color: chocolate;
+
+}
+#servicePageCard  .seriviceText span{
+  font-size: 1.1em;
+  font-weight: 550;
+  line-height: 1.7em;
+ 
+ }

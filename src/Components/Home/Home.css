@@ -18,8 +18,9 @@
     font-size: 1.5rem;
 }
 .aboutDesc p{
-    line-height: 1.5em;
+    line-height: 1.7em;
     font-weight: 600;
+    font-size: 1.2em;
 }
 .aboutImg {
     border-right: 2px solid maroon;
@@ -151,6 +152,9 @@ $gr-3:linear-gradient(170deg, #C86DD7 0%, #3023AE 100%);
 #cardParts{
   margin-top: 80px;
 }
+#cardParts img{
+  height: 300px;
+}
 #card{
   background-color: black;
   margin-top: 50px;
@@ -178,7 +182,7 @@ $gr-3:linear-gradient(170deg, #C86DD7 0%, #3023AE 100%);
   line-height: 1.7em;
 }
 #card .text h3:hover{
-  margin-left: 16%;
+ color: chocolate;
 }
 #card .text a{
   margin-top: 10px;
@@ -199,9 +203,10 @@ border-radius: 8px;
 height: 300px;
 }
 #gallery .galleryImage img{
-  height: 250px;
+  height: 280px;
   border-radius: 8px;
   padding-bottom: 10px;
+  width: 100%;
   
 }
 #gallery .galleryImage:hover{
@@ -220,7 +225,7 @@ height: 300px;
   height: 380px;
   }
   #gallery .galleryImage1 img{
-    height: 330px;
+    height: 360px;
     border-radius: 8px;
     padding-bottom: 10px;
   }
@@ -236,7 +241,9 @@ height: 300px;
     height: 330px;
     }
     #gallery .galleryImage2 img{
-      height: 280px;
+      height: 310px;
       border-radius: 8px;
       padding-bottom: 10px;
     }
+
+    

@@ -1,6 +1,7 @@
 
 import './App.css';
 import Home from './Components/Home/Home';
+import  { Helmet } from "react-helmet";
 
 import {
     BrowserRouter,
@@ -22,14 +23,19 @@ function App() {
         <BrowserRouter >
             <div className="App">
                 <>
-
+                <Helmet>
+                <meta charSet="utf-8" />
+                <title>ARCH HUB  </title>
+                <meta name='keywors' content=' arch hub about' />
+                <meta name="title" content="arch hub architectural hub design about " />
+                <meta name="description" content="" />
+            </Helmet>
                     <nav className="navbar navbar-expand-lg sticky-top">
                         <div className="container-fluid">
                             <div className="container">
                                 <div className="row">
-                                    <div className="col-sm-12 col-md-6 col-lg-6 Footerimg">
-
-                                        <h3>ARCH <span>HUB</span></h3>
+                                    <div className="col-sm-12 col-md-6 col-lg-6 logoImg">
+<img src={require("./assets/Images/logo.jpeg")} alt="arch hub logo" className='img-fluid' />
                                     </div>
                                 </div>
                             </div>
@@ -48,7 +54,7 @@ function App() {
                                         <ul className="dropdown-menu">
                                             <li><Link className="dropdown-item" as={Link} to="/Service1">BUILDING PLANING</Link></li>
                                             <li><Link className="dropdown-item" as={Link} to="/Service2">ARCHITECTURE VISUALISATION</Link></li>
-                                            <li><Link className="dropdown-item" as={Link} to="/Service3">3D BUILDING MODELING</Link></li>
+                                            {/* <li><Link className="dropdown-item" as={Link} to="/Service3">3D BUILDING MODELING</Link></li> */}
                                         </ul>
                                     </li>
                                     <li className="nav-item">
@@ -63,6 +69,8 @@ function App() {
                                     {/* <li className="nav-item">
                                             <Link className="nav-link" as={Link} to="/Portfolio">PORTFOLIO</Link>
                                         </li> */}
+                                        
+                                  
                                 </ul>
                             </div>
                         </div>

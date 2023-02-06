@@ -7,7 +7,7 @@ function Footer() {
        <div className="container-fluid ">
         <div className="row" id='footer'>
           <div className="col-sm-12 col-md-4 col-lg-4 Footerimg">
-              <h3>ARCH <span>HUB</span></h3>
+<img src={require("../../assets/Images/logo.jpeg")} alt="arch hub logo" className='img-fluid' />
                  <center> <hr /></center>
               <ul>
                 <li><a href=""> <i class="fa-brands fa-square-instagram"></i> </a></li>
@@ -31,10 +31,10 @@ function Footer() {
                  <h5>Let Connect</h5>
                  <center> <hr /></center>
                     <h6> Location</h6>
-                    <p>Jam Mohall Near Anjuman School <br/>
+                    <p>Khadka Road Near Sunrise Apartment <br/>
 BHUSAWAL , 425201</p>
                     <h6>Contact</h6>
-                    <p>ejaz8837@gmail.com.<br />8446931810.</p>
+                    <p>muzaffarsayyed72@gmail.com<br />9579546154.</p>
           </div>
           <div className="col-sm-12 copyright">
             <h6>copyright@2023 by <a href="www.rioforge.com">Rioforge</a></h6>
